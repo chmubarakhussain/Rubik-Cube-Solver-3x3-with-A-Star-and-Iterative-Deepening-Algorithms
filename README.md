@@ -1,5 +1,5 @@
 # Rubik-Cube-Solver-3x3-with-A-Star-and-Iterative-Deepening-Algorthms
-The Rubik's Cube is an important test domain for heuristic search that has 1019 possible  states, making it impossible to store in memory. We are going to compare Iterative-Deepening and A* Algorithms for the  famous Rubik’s cube puzzle. Comparison will be in terms of number of nodes expanded and  optimality of solution found by these search schemes.
+The Rubik's Cube is an important test domain for heuristic search that has 10^19 possible  states, making it impossible to store in memory. We are going to compare Iterative-Deepening and A* Algorithms for the  famous Rubik’s cube puzzle. Comparison will be in terms of number of nodes expanded and  optimality of solution found by these search schemes.
 A complete configuration of a puzzle consists of 54 space separated digits which give the color 
 information on each of the six sides of the cube. A color on each of the nine cubes on a given side 
 is a digit from the set {1, 2, 3, 4, 5, 6}. The first 9 digits of these 54 digits specifying the colors of 
